@@ -2,7 +2,7 @@
 
 • Web-based application that predicts the price of the laptop according to the configuration input by user.
 
-• The project includes eight major stages of the ML life cycle to result in structured, practical business value.
+• The project includes eight major stages of the Machine Learning life cycle to result in structured, practical business value.
 
 # Business Problem
 Predict the Price of laptop on the basis of
